@@ -8,8 +8,8 @@ This project aims to solve algorithm problems from Rosalind using Python.
 
 ## Project Structure
 
-- `problems/` - Contains solutions for each Rosalind problem.
-- `data/` - Stores input data and output results.
+- `Scripts/` - Contains solutions for each Rosalind problem.
+- `Data/` - Stores input data and output results.
 
 ## Installation
 
