@@ -10,7 +10,7 @@ This project aims to solve algorithm problems from Rosalind using Python.
 
 - `Scripts/` - Contains solutions for each Rosalind problem.
 - `Data/` - Stores input data.
-- `Result/` - Stores output results.
+- `Results/` - Stores output results.
 
 ## Installation
 
