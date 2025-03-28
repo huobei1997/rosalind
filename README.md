@@ -14,4 +14,4 @@ This project aims to solve algorithm problems from Rosalind using Python.
 
 ## Installation
 
-Make sure you have Python 3.x installed. You can download and install it from the [official Python website](https://www.python.org/).
+Make sure you have Python 3.13.2 installed. You can download and install it from the [official Python website](https://www.python.org/).
